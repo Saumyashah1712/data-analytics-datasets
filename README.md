@@ -7,29 +7,6 @@ A collection of Excel and CSV datasets for data analysis, data cleaning, visuali
 
 This repository serves as a centralized collection of datasets in Excel and CSV formats. These datasets are maintained for learning, practice, analysis, and future project development.
 
-## 📂 Repository Structure
-
-```text
-data-analytics-datasets/
-│
-├── Excel-Datasets/
-│   ├── dataset1.xlsx
-│   ├── dataset2.xlsx
-│   └── dataset3.xlsx
-│
-├── CSV-Datasets/
-│   ├── dataset1.csv
-│   ├── dataset2.csv
-│   └── dataset3.csv
-│
-└── README.md
-```
-
-## 📁 File Formats
-
-- **Excel:** `.xlsx`, `.xls`
-- **CSV:** `.csv`
-
 ## 🎯 Purpose
 
 - Maintain a centralized dataset library.
